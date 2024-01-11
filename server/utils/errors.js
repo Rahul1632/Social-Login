@@ -1,0 +1,17 @@
+export const INTERNAL_ERROR = "Internal Server Error"
+export const NOT_FOUND = "Not Found"
+export const BAD_REQUEST = "Bad Request"
+export const USERDATA_SAVED_SUCCESSFULLY = "User data saved successfully"
+export const TOKEN_ID_REQUIRED = "Token ID required"
+export const NOT_AUTHORIZED = "User is not authorized"
+export const FACEBOOK_AUTH_ERROR = "Error during Facebook authentication";
+export const FETCH_FACEBOOK_USER_ERROR = "Failed to fetch user information from Facebook";
+export const USER_SAVE_ERROR = "Failed to save user information";
+export const INTERNAL_SERVER_ERROR = "Internal Server Error";
+export const USER_ALREADY_EXISTS = "User already exists";
+export const TOKEN_GENERATION_ERROR = "Error generating JWT token";
+export const LINKEDIN_AUTH_ERROR = "Error during LinkedIn authentication";
+export const FETCH_LINKEDIN_USER_ERROR = "Failed to fetch user information from LinkedIn";
+export const LINKEDIN_LOGIN_DATA_ERROR = "Failed to process LinkedIn login data";
+export const ACCESS_TOKEN_REQUIRED_ERROR = "Access token is required";
+export const MONGODB_URI_MISSING = " Mongodb URI is missing"
