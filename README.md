@@ -14,7 +14,7 @@ LinkedIn Login Documentation :
 
 https://drive.google.com/file/d/1oUtK-3XBj29e9uCQEoARxq-HqpLOV_eQ/view?usp=sharing
 
-And this is the link of the google drive folder where you will the screencast of these as well : 
+And this is the link of the google drive folder where you will have the screencast of these as well : 
 
 https://drive.google.com/drive/folders/1kvqr9_qtnq-H03YnfbR81fSfqRqcjtu9?usp=sharing
 
