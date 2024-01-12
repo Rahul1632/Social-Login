@@ -1,0 +1,9 @@
+<!-- This is the .env file which you need to rename to the ".env" file and need to change the below variables to be able to run this frontend code:
+
+VITE_GOOGLE_CLIENT_ID = "your google client id"
+VITE_LINKEDIN_CLIENT_ID = "your linkedin client id"
+VITE_FACEBOOK_CLIENT_ID = "your facebook client id"
+VITE_API_URL = "http://localhost:4000/api"
+VITE_GOOGLE_API_USERINFO = "https://www.googleapis.com/auth/userinfo.email"
+VITE_LINKEDIN_SECRET_ID = "your linkedin secret id"
+-->
