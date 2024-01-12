@@ -4,16 +4,18 @@ Here are the links of the documentation for all social login :
 
 Google Social Login Documentation : 
 
-https://docs.google.com/document/d/1z2PHenjzZnTkOat3b1FpWRim1kvPHRdiWQEMZ-mW1nQ/edit?usp=sharing
-
+https://drive.google.com/file/d/13AeucQ_5w7nUOqMf4_t2XD3PbHrkWFpG/view?usp=sharing
 
 Facebook Login Documentation :
 
-https://docs.google.com/document/d/18xcDIFk2NvHTk5GCbS9_u-oUi-BosJaEXdU55nHrLOU/edit?usp=sharing
+https://drive.google.com/file/d/1fPB5cpc22IXAKLJYaaTjWXmi-dbVVQVk/view?usp=sharing
 
 LinkedIn Login Documentation : 
 
-https://docs.google.com/document/d/1luAItHqxz3FPunOWIOTf1Ta8UZinrsI5pI4nNWsJPD8/edit?usp=sharing
+https://drive.google.com/file/d/1oUtK-3XBj29e9uCQEoARxq-HqpLOV_eQ/view?usp=sharing
 
+And this is the link of the google drive folder where you will the screencast of these as well : 
+
+https://drive.google.com/drive/folders/1kvqr9_qtnq-H03YnfbR81fSfqRqcjtu9?usp=sharing
 
 Follow steps mentioned in the documentation to integrate social login in your web application.
